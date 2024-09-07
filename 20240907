@@ -1,0 +1,2 @@
+Base64 is not working well in android ut tests, to resolve this, I used underhere: and perfectly solved my problem.
+@RunWith(RobolectricTestRunner::class)
